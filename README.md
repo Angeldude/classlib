@@ -1,4 +1,4 @@
-## ClASSLIB for Abstract Algebra: a computational approach
+## CLASSLIB for Abstract Algebra: a computational approach
 
 ### What is this?
 This is a math library for the Abstract Algebra book by Charles C. Sims. It took me a while to hunt this down before I decided to search on Github and found just one repository with a single file: a Dyalog APL workspace.
@@ -12,4 +12,4 @@ This is still incomplete, if you want to start using the full CLASSLIB, use the 
 I provide `.atf` files for each function and variable, 1 full `.atf` file with everything in it, an APLX workspace with everything in it, and an exported Dyalog extended workspace from the original Dyalog file.
 
 ### To be converted?
-This file is all the variables that I need to re-introduce because the export feature on Dyalog was Erroring on matrix variable definitions.
+This file contains all the variables that I need to re-introduce because the export feature on Dyalog was erroring on matrix variable definitions.
