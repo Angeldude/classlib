@@ -1,0 +1,5 @@
+ FQSUM êFX ' CΩA QSUM B;RA;RB;AN;AD;BN;BD;NT' '‰ COMPUTES THE SUM OF TWO        
+  RATIONAL ARRAYS.' ' ∏NOTEST/BEGIN' ' AΩQNRMLZ A' ' BΩQNRMLZ B' ' EXPAN        
+ DV' 'BEGIN:RAΩ˝1«ÊA' ' RBΩ˝1«ÊB' ' ANΩ(RA,1)∆A' ' ADΩ(RA,˝1)∆A' ' BNΩ(R        
+ B,1)∆B' ' BDΩ(RB,˝1)∆B' ' NTΩNOTEST' ' NOTESTΩ1' ' CΩQNRMLZ((ANıBD)+ADı        
+XBN),ADıBD' ' NOTESTΩNT'                                                        

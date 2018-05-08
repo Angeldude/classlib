@@ -1,0 +1,6 @@
+ FCPOWER FX ' C½A CPOWER B;RHO;RC;I;J;NOTEST' 'ä COMPUTES THE B-TH POWE        
+ R OF THE COMPLEX' 'ä ARRAY  A  USING THE BINARY POWER ALGORITHM.' ' NOT        
+ EST½0' ' A½CNRMLZ A' ' DERR^/(,B=¾B),,Bò0' ' B½((æB),1)æB' ' EXPANDV' '        
+  NOTEST½1' ' RC½(õ/ý1ÇRHO½æA),2' ' A½RCæA' ' C½RCæ1 0' ' I½(B>0)/ìæB½,B        
+ ' 'LOOP:C[J;]½C[J;]CPROD A[J½(2|B[I])/I;]' ' ¸(0=æI½(B[I]ò2)/I)/END' '         
+XA[I;]½A[I;]CPROD A[I;]' ' B[I]½¾B[I]ö2' ' ¸LOOP' 'END:C½RHOæC'                 

@@ -1,0 +1,10 @@
+ FZNXFPOWER FX ' C½A ZNXFPOWER B;D;E;RHO;R;I;J' 'ä COMPUTES POWERS IN T        
+ HE CURRENT QUOTIENT ALGEBRA' 'ä OF THE RING OF POLYNOMIALS OVER THE INT        
+ EGERS' 'ä MODULO  n.  THE ENTRIES IN  B  MUST BE NONNEGATIVE' 'ä INTEGE        
+ RS.' ' DERR^/(,B=¾B),,Bò0' ' B½((æB),1)æB' ' EXPANDV' ' ¸((D½ý1ÆæZNXRT)        
+ òE½ý1ÆæA)/OK' ' ¸(E>ý1+2õD)/DERR' ' A½n|(((ý1ÇæA),D)ÆA)+(((-ææA)ÆD)ÇA)+        
+ .õ((E-D),D)ÆZNXRT' 'OK:A½((RHO½ý1ÇæA),D)ÆA' ' A½((R½õ/RHO),D)æA' ' C½(æ        
+ A)æDÆ1' ' I½(B>0)/ìæB½,B' 'LOOP:C[J;]½((æJ),D)ÆC[J;]ZNXFPROD A[J½(2|B[I        
+ ])/I;]' ' ¸(0=æI½(B[I]ò2)/I)/END' ' A[I;]½((æI),D)ÆA[I;]ZNXFPROD A[I;]'        
+  ' B[I]½¾B[I]ö2' ' ¸LOOP' 'END:D½1©+/ë\èëð((õ/ý1ÇæC),D)æCô0' ' C½(RHO,D        
+X)æ(R,D)ÆC'                                                                     

@@ -1,0 +1,8 @@
+ FZNLSYS êFX ' CΩA ZNLSYS B;T;X;r;v' '‰ SOLVES LINEAR SYSTEMS OVER  ZN,         
+ WHERE  n  MUST BE' '‰ PRIME.  PRODUCES AN ARRAY  C  SUCH THAT  A+.ıC  I        
+ S' '‰ B  AND A MATRIX  w  WHOSE ROWS ARE A BASIS FOR THE' '‰ SOLUTION S        
+ PACE OF THE CORRESPONDING HOMOGENEOUS' '‰ SYSTEM.' ' DERR^/(1=ÊZFACTOR         
+ n),(,A=æA),(,B=æB)' ' DERR^/(2=ÊÊA),(1ÛÊÊB),(1∆ÊA)=1∆ÊB' ' AΩZNROWREDUC        
+ E A' ' BΩn|r+.ıB' ' DERR^/,0=((Êv),(˝1+ÊÊB)Ê0)«B' ' XΩ(~TΩ(˝1∆ÊA)SCHV v        
+ )/Ï˝1∆ÊA' ' wΩ((ÊX),ÊT)Ê0' ' w[;X]ΩX¯.=X' ' w[;v]ΩÌn|-A[ÏÊv;X]' ' CΩTÒ(        
+X(Êv),1«ÊB)∆B'                                                                  

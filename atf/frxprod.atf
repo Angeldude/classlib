@@ -1,0 +1,7 @@
+ FFRXPROD FX ' C½A FRXPROD B;IO;D;RHO;I' 'ä COMPUTES THE ENTRY-BY-ENTR        
+ Y PRODUCT OF TWO ARRAYS' 'ä OF POLYNOMIALS OVER THE FINITE RING.' ' EXP        
+ ANDV' ' IO½0' ' D½((ìý1+ææA),0 ý1+ææA)íBø.õ(ý1ÆæA)æ1' ' D½(Aø.õ(ý1ÆæB)        
+ æ1)FRPROD D' ' D½D,((æA),ý1+ý1ÆæA)æ0' ' D½((æA)æ-ìý1ÆæA)èD' ' RHO½æD' '        
+  D½((õ/ý2ÇRHO),ý2ÆRHO)æD' ' C½(æD)[0 2]æ0' ' I½ý1' 'LOOP:¸((æD)[1]=I½I+        
+ 1)/END' ' C½C FRSUM D[;I;]' ' ¸LOOP' 'END:D½1©+/ë\èëð0ôC' ' C½((ý2ÇRHO)        
+X,D)æ((1ÆæC),D)ÆC'                                                              

@@ -1,0 +1,10 @@
+ FRXGCD0 êFX ' CΩA RXGCD0 B;M;R;RHO;I;T;D;NOTEST' '‰ COMPUTES MONIC GCD'        
+ 'S OF REAL POLYNOMIALS WITHOUT' '‰ EXPRESSING THE RESULT AS A LINEAR CO        
+ MBINATION' '‰ OF THE ARGUMENTS.' ' AΩAı(|A)ÚEPSILONı©/,|A' ' BΩBı(|B)ÚE        
+ PSILONı©/,|B' ' EXPANDV' ' MΩ1©+/Î\Ë0Ù((ı/˝1«ÊA),˝1∆ÊA)ÊA' ' MΩM©+/Î\Ë0        
+ Ù((ı/˝1«ÊB),˝1∆ÊB)ÊB' ' IΩÏRΩı/RHOΩ˝1«ÊA' ' NOTESTΩ1' ' AΩ(R,M)Ê(RHO,M)        
+ ∆A RXPROD(RHO,1)ÊˆRXLEAD A' ' BΩ(R,M)Ê(RHO,M)∆B RXPROD(RHO,1)ÊˆRXLEAD B        
+ ' 'LOOP:∏(0=ÊIΩ(Î/B[I;]Ù0)/I)/END' ' TΩ((ÊI),M)∆B[I;]RXREM A[I;]' ' TΩT        
+ ı(|T)ÚEPSILONı(©/|B[I;])¯.ıMÊ1' ' TΩ(ÊT)∆T RXPROD((ÊI),1)ÊˆRXLEAD T' '         
+ A[I;]ΩB[I;]' ' B[I;]ΩT' ' ∏LOOP' 'END:DΩ1©+/Î\ËÎ0ÙA' ' CΩ(RHO,D)Ê(R,D)        
+X∆A'                                                                            

@@ -1,0 +1,5 @@
+ FGPCYCOUT êFX ' CΩGPCYCOUT X;T;I;J' '‰ CONSTRUCTS THE CYCLE FORM OF THE        
+  PERMUTATION  X.' ' DERR 1=ÊÊX' ' DERR^/X[˚X]=ÏÊX' ' CΩ''''' ' TΩ(ÊX)Ê0        
+ ' '‰ FIND THE START OF THE NEXT CYCLE.' 'LOOP1:∏((êIO+ÊX)ÛIΩTÏ0)/0' ' T        
+ [I]Ω1' ' CΩC,''('',ÆJΩI' 'LOOP2:∏(I=JΩX[J])/CLOSE' ' CΩC,'','',ÆJ' ' T[        
+XJ]Ω1' ' ∏LOOP2' 'CLOSE:CΩC,'')''' ' ∏LOOP1'                                    

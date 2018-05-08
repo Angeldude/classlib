@@ -1,0 +1,23 @@
+ FRXFACTOR êFX ' GΩRXFACTOR F;êIO;D;TOL;N;GCD;DF;r;s;H;S;ADDH;CENT;DEL;D        
+ ER;DH;DR;MAX;NEWR;a;A;CLOSE;CNT;I;ND;SQ;S2;U;VAL;X' '‰ ATTEMPTS TO PROD        
+ UCE A LIST OF MONIC REAL' '‰ IRREDUCIBLE POLYNOMIALS WHOSE PRODUCT IS T        
+ HE' '‰ MONIC ASSOCIATE OF A GIVEN POLYNOMIAL.' ' êIOΩ0' ' DERR^/(1=ÊÊF)        
+ ,,0<DΩRXDEGREE F' ' TOLΩEPSILONı©/,|FΩ((D+1)∆F)ˆF[D]' ' SQΩ4 2Ê1 1 ˝1 1        
+  ˝1 ˝1 1 ˝1' ' NΩ+/^\0=F' ' GΩ(N,3)Ê0 1 0' 'AGAIN:GCDΩF RXGCD DFΩ1«FıÏÊ        
+ FΩN«F' ' DERR^/TOLÚ|GCD RXDIFF(F RXPROD r)RXSUM DF RXPROD s' ' ∏(2<DΩÊH        
+ ΩF RXQUOT GCD)/NONLIN' ' CENTΩ1 2Ê2∆-H[0]ˆH[1]' ' ∏CLEANUP' 'NONLIN:CEN        
+ TΩ(2 2∆SQ)ıSΩ0.5ı©/(ËDı|˝1«H)*ˆ1«ÏD' ' ADDHΩ|1«DHıÏÊDHΩ1«HıÏÊH' ' DHΩDH        
+ ,0' ' CLOSEΩCNTΩ0' 'LOOP:∏(15<CNTΩCNT+1)/CLEANUP' ' DERΩVALΩ(ÊCENT)Ê0'         
+ ' IΩD' 'EVAL:∏(0>IΩI-1)/DONE' ' VALΩ((ÊVAL)ÊH[I],0)+(-/CENTıVAL),[0.5]+        
+ /CENTıËVAL' ' DERΩ((ÊDER)ÊDH[I],0)+(-/CENTıDER),[0.5]+/CENTıËDER' ' ∏EV        
+ AL' 'DONE:XΩ~TOLÚDRΩ(NDΩ+/DERıDER)*0.5' ' DELΩ(XDERı(ÊDER)Ê1 ˝1)ˆND,[0        
+ .5]NDΩX/ND' ' DELΩ(-/VALıDEL),[0.5]+/DELıËVALΩXVAL' ' ∏CLOSE/NEWTON' '        
+  MAXΩ(S2ΩSı1.415)+(+/XCENTıCENT)*0.5' ' MAXΩ(MAX¯.*ÏÊADDH)+.ıADDH' ' N        
+ EWRΩMAXıSıSˆX/DR' ' XΩ(~X)ÎX\(NEWR+S2)Ú(+/DELıDEL)*0.5' ' CENTΩ(4 1ıÊCE        
+ NT)Ê0 2 1 2Ì(CENTΩXCENT)¯.+SQıSΩSˆ2' ' CLOSEΩ(8ÛCNT)Î(1∆ÊCENT)Û1∆ÊDER'        
+  ' ∏LOOP' 'NEWTON:CENTΩ(XCENT)-DEL' ' ∏(^/,TOLÚ|VAL)/CLEANUP' ' ∏LOOP'        
+  'CLEANUP:CENTΩ(CENT[;1]Ú0)CENT' ' DΩÊF' ' IΩ˝1' 'NEXT:∏((1∆ÊCENT)ÛIΩI        
+ +1)/END' ' AΩCENT[I;]' ' ∏(A[1]Ù0)/COMPLEX' ' UΩ(-A[0]),1' ' ∏CHECK' 'C        
+ OMPLEX:UΩ(+/AıA),(-2ıA[0]),1' 'CHECK:∏(~^/TOLÚ|U RXREM F)/NEXT' ' GΩG,[        
+ 0]3∆U' ' FΩF RXQUOT U' ' ∏CHECK' 'END:DERR D>ÊF' ' ∏(1<ÊF)/AGAIN' ' GΩG        
+Xı~(|G)ÛEPSILONı©/,|G'                                                          

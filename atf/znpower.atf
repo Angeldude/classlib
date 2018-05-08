@@ -1,0 +1,6 @@
+ FZNPOWER FX ' C½A ZNPOWER B;RHO;I;J;NOTEST' 'ä COMPUTES  n|A*B  USING         
+ THE BINARY POWER ALGORITHM.' 'ä A  AND  B  MUST BE INTEGER ARRAYS AND          
+ Bò0.' ' DERR^/(,A=¾A),(B=¾B),,Bò0' ' EXPAND' ' RHO½æA' ' C½(æA½,A)æ1' '        
+  I½(B>0)/ìæB½,B' ' NOTEST½1' 'LOOP:C[J]½C[J]ZNPROD A[J½(2|B[I])/I]' ' ¸        
+ (0=æI½(B[I]ò2)/I)/END' ' A[I]½A[I]ZNPROD A[I]' ' B[I]½¾B[I]ö2' ' ¸LOOP'        
+X 'END:C½RHOæC'                                                                 

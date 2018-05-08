@@ -1,0 +1,4 @@
+ FGPPROD êFX ' CΩA GPPROD B;M;RHO;N;I' '‰ COMPUTES THE ELEMENT-BY-ELEMEN        
+ T PRODUCT OF TWO' '‰ ARRAYS OF PERMUTATIONS (OR MAPS).' ' ∏NOTEST/BEGIN        
+ ' ' DERR^/(,A=æA),(,AÚêIO),,A<êIO+˝1∆ÊB' ' EXPANDV' 'BEGIN:MΩı/˝1«RHOΩÊ        
+XA' ' NΩ˝1∆RHO' ' IΩRHOÊÌ(N,M)ÊNı(ÏM)-êIO' ' CΩ(,B)[A+I]'                       

@@ -1,0 +1,6 @@
+ FCMATPROD êFX ' CΩA CMATPROD B;êIO;X;AX;BX;RR;NOTEST;RA;RB' '‰ COMPUTES        
+  THE MATRIX PRODUCT OF TWO NONSCALAR ARRAYS' '‰ OF COMPLEX NUMBERS.' '         
+ NOTESTΩ0' ' êIOΩ1' ' AΩCNRMLZ A' ' BΩCNRMLZ B' ' DERR(^/1<(ÊÊA),ÊÊB)^(Ê        
+ A)[˝1+ÊÊA]=1∆ÊB' ' CΩ((RAΩ˝2«ÊA),(RBΩ˝1«1«ÊB),2)Ê0' ' NOTESTΩ1' ' XΩ1=Ï        
+ 1∆ÊB' ' RRΩ((ÊRA)+ÏÊRB),(ÏÊRA),ÊÊC' 'LOOP:AXΩRRÌ(RB,RA,2)ÊX/[˝1+ÊÊA]A'         
+X' CΩC CSUM AX CPROD(ÊC)ÊXB' ' ∏(~1∆XΩ˝1ËX)/LOOP'                              

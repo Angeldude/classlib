@@ -1,0 +1,7 @@
+ FZFACTOR FX ' P½ZFACTOR N;Q;R;IO' 'δ FACTORS A POSITIVE INTEGER INTO         
+ A PRODUCT OF PRIMES.' 'δ THE RESULT IS CORRECT IF  N  IS LESS THAN 2.5E        
+ 9.' ' DERR^/(N=ΎN),(1σN),1=ζN½,N' ' P½μIO½0' ' Q½2 3 5,R½,(30υμ77Ύ©(N*        
+ 0.5)φ30)ψ.+7 11 13 17 19 23 29 31' 'LOOP:Έ(0=ζQ½(0=Q|N)/Q)/NEXT' ' P½P,        
+ 1ΖQ' ' ΈLOOP,N½ΎNφQ[0]' 'NEXT:Έ(N=1)/0' ' Έ((ύ1ΖR)ς50000ΎN*0.5)/END' '         
+ Έ(R[0]τ7)/GEN' ' R½(^π0τ7 11ψ.|R)/R' 'GEN:Q½R½R+2310' ' ΈLOOP' 'END:P½P        
+X,N'                                                                            

@@ -1,0 +1,10 @@
+ FZNXQUOT êFX ' CΩA ZNXQUOT B;êIO;DB;N;K;L;R;I;F;D;E;RHO' '‰ COMPUTES TH        
+ E QUOTIENT OF  A  BY  B IN THE RING' '‰ OF INTEGER POLYNOMIALS MODULO          
+ n, WHICH MUST BE' '‰ LESS THAN 1E7.  THE LEADING COEFFICIENTS IN  B' '‰        
+  MUST BE UNITS.  THE GLOBAL VARIABLE  a  CONTAINS' '‰ THE REMAINDERS.'         
+ ' êIOΩ0' ' DERR^/(,A=æAΩn|A),(,B=æBΩn|B),n<10000000' ' EXPANDV' ' DERR^        
+ /,0ÛDBΩ˝1++/Î\Ë0ÙB' ' NΩı/RHOΩÊDB' ' LΩK©(+/˝1∆ÊA)+©/RΩ(˝1+KΩ+/˝1∆ÊB)-,        
+ DB' ' BΩ(-R)Ë(N,K)ÊB' ' AΩ(-R)Ë(N,L)∆(N,˝1∆ÊA)ÊA' ' CΩ(N,IΩ1++/L-K)Ê2-2        
+ ' ' EΩZNINV B[;K-1]' 'LOOP:∏(0>IΩI-1)/END' ' C[;I]ΩFΩn|A[;I+K-1]ıE' ' A        
+ [;I+ÏK]Ωn|A[;I+ÏK]-BıÌ(ËÊB)ÊF' ' ∏LOOP' 'END:DΩ1©©/,+/Î\Ë0ÙC' ' CΩ(RHO,        
+XD)Ê(N,D)∆C' ' DΩ1©©/,+/Î\Ë0ÙAΩRËA' ' aΩ(RHO,D)Ê(N,D)∆A'                        

@@ -1,0 +1,5 @@
+ FZNXEVAL êFX ' YΩA ZNXEVAL B;I;NOTEST;êIO;RHO' '‰ EVALUATES THE POLYNOM        
+ IALS IN  A  AT  B  MODULO  n.' ' DERR^/(,A=æA),(,B=æBΩ((ÊB),1)ÊB),n<100        
+ 00000' ' EXPANDV' ' AΩ((ı/RHOΩ˝1«ÊA),˝1∆ÊA)Ên|A' ' YΩ(ÊBΩ,n|B)Ê0' ' êIO        
+ ΩNOTESTΩ1' ' IΩ1+(ÊA)[2]' 'LOOP:∏(0ÚIΩI-1)/END' ' YΩn|A[;I]+BıY' ' ∏LOO        
+XP' 'END:YΩRHOÊY'                                                               

@@ -1,0 +1,33 @@
+ FZNXREDUCE FX ' B½ZNXREDUCE A;IO;I;J;K;L;M;N;Q;E;D;Y;Z;U;V;X;a' 'ä RE        
+ DUCES A MATRIX OF POLYNOMIALS IN  ZN[X]  USING' 'ä ROW AND COLUMN OPERA        
+ TIONS.  PRODUCES  MATRICES  r' 'ä AND  s  SUCH THAT  B  IS THE MATRIX P        
+ RODUCT OF' 'ä r,  A  AND  s.   n  MUST BE A PRIME.' ' DERR^/(1=æZFACTOR        
+  n),(3=ææA),,A=¾A' ' B½n|A' ' IO½0' ' r½(K,K,1)æ1,(K½1ÆæB)æ0' ' s½(L,L        
+ ,1)æ1,(L½(æB)[1])æ0' ' I½ý1' 'LOOPI:¸(^/ý1=D½,ZNXDEGREE((I,I½I+1),0)ÇB)        
+ /CLEANUP' ' V½I+((2ÆæB)-I)˜Dì¾/(Dò0)/D' ' X½B[J½V[0];K½V[1];]' 'COL:¸(^        
+ /ý1=D½ZNXDEGREE X ZNXREM B[;K;])/ROW' ' L½Dì¾/(Dò0)/D' ' Q½B[L;K;]ZNXQU        
+ OT X' ' E½Q ZNXPROD B[J;;]' ' B½((ý1ÇæB),(ý1ÆæB)©ý1ÆæE)ÆB' ' B[L;;]½n|B        
+ [L;;]-(1ÇæB)ÆE' ' E½Q ZNXPROD r[J;;]' ' r½((ý1Çær),(ý1Æær)©ý1ÆæE)Ær' '         
+ r[L;;]½n|r[L;;]-(1Çær)ÆE' ' X½B[J½L;K;]' ' ¸COL' 'ROW:¸(^/ý1=D½ZNXDEGRE        
+ E X ZNXREM B[J;;])/GENERAL' ' M½Dì¾/(Dò0)/D' ' Q½B[J;M;]ZNXQUOT X' ' E½        
+ Q ZNXPROD B[;M;]' ' B½((ý1ÇæB),(ý1ÆæB)©ý1ÆæE)ÆB' ' B[;M;]½n|B[;M;]-(æB)        
+ [0 2]ÆE' ' E½Q ZNXPROD s[;M;]' ' S½((ý1Çæs),(ý1Ææs)©ý1ÆæE)Æs' ' s[;M;]½        
+ n|s[;M;]-(æs)[0 2]ÆE' ' X½B[J;K½M;]' ' ¸COL' 'GENERAL:¸(^/ý1=D½,ZNXDEGR        
+ EE X ZNXREM(I,I,0)ÇB)/END' ' V½I+((2ÆæB)-I)˜Dì¾/(Dò0)/D' ' Q½B[L½V[0];K        
+ ;]ZNXQUOT X' ' E½Q ZNXPROD B[J;;]' ' B½((ý1ÇæB),(ý1ÆæB)©ý1ÆæE)ÆB' ' B[L        
+ ;;]½n|B[L;;]-(1ÇæB)ÆE' ' E½Q ZNXPROD r[J;;]' ' r½((ý1Çær),(ý1Æær)©ý1ÆæE        
+ )Ær' ' r[L;;]½n|r[L;;]-(1Çær)ÆE' ' Q½B[L;M½V[1];]ZNXQUOT X' ' E½Q ZNXPR        
+ OD B[;K;]' ' B½((ý1ÇæB),(ý1ÆæB)©ý1ÆæE)ÆB' ' B[;M;]½n|B[;M;]-(æB)[0 2]ÆE        
+ ' ' E½Q ZNXPROD s[;K;]' ' s½((ý1Çæs),(ý1Ææs)©ý1ÆæE)Æs' ' s[;M;]½n|s[;M;        
+ ]-(æs)[0 2]ÆE' ' X½B[J½L;K½M;]' ' ¸COL' 'END:B[I,J;;]½B[J,I;;]' ' r[I,J        
+ ;;]½r[J,I;;]' ' B[;I,K;]½B[;K,I;]' ' s[;I,K;]½s[;K,I;]' ' B[I;;]½n|B[I;        
+ ;]õU½ZNINV ZNXLEAD X' ' r[I;;]½n|r[I;;]õU' ' Q½B[Y½(I+1)Çì1ÆæB;I;]ZNXQU        
+ OT B[I;I;]' ' E½(1 0 2í((æB)[1],æQ)æQ)ZNXPROD((1ÆæQ),1ÇæB)æB[I;;]' ' B½        
+ ((ý1ÇæB),(ý1ÆæB)©ý1ÆæE)ÆB' ' B[Y;;]½n|B[Y;;]-((æY),1ÇæB)ÆE' ' E½(1 0 2í        
+ ((ær)[1],æQ)æQ)ZNXPROD((1ÆæQ),1Çær)ær[I;;]' ' r½((ý1Çær),(ý1Æær)©ý1ÆæE)        
+ Ær' ' r[Y;;]½n|r[Y;;]-((æY),1Çær)ÆE' ' Q½B[I;Z½(I+1)Çì(æB)[1];]ZNXQUOT         
+ B[I;I;]' ' B[I;Z;]½0' ' E½(1 0 2í((1ÆæQ),(æs)[0 2])æs[;I;])ZNXPROD((1Ææ        
+ s),æQ)æQ' ' s½((ý1Çæs),(ý1Ææs)©ý1ÆæE)Æs' ' s[;Z;]½n|s[;Z;]-((1Ææs),(æZ)        
+ ,ý1Ææs)ÆE' ' ¸LOOPI' 'CLEANUP:D½1©+/ë\èëðëð0ôB' ' B½((ý1ÇæB),D)ÆB' ' D½        
+ 1©+/ë\èëðëð0ôr' ' r½((ý1Çær),D)Ær' ' D½1©+/ë\èëðëð0ôs' ' s½((ý1Çæs),D)Æ        
+Xs'                                                                             

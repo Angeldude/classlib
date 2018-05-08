@@ -1,0 +1,7 @@
+ FDECQUOT êFX ' ZΩX DECQUOT Y;SGNX;SGNY;L;U' '‰ EXERCISE 2.5.3' ' SGNXΩı        
+ 1∆XΩDECCARRY X' ' SGNYΩı1∆YΩDECCARRY Y' ' ∏(SGNYÙ0)/NONZERO' ' ∏(SGNXÙ0        
+ )/DE' ' ZΩ,1' ' ∏0' 'DE:''DOMAIN ERROR''' ' ∏0' 'NONZERO:XΩ|X' ' YΩ|Y'         
+ ' ZΩ,0' 'LOOP:∏(0>LΩ(ÊX)-ÊY)/DONE' ' ∏(^/0=UΩ((-L)«X)-Y)/SUBTRACT' ' ∏(        
+ 0<U[(UÙ0)Ï1])/SUBTRACT' ' ∏(0=L)/DONE' ' LΩL-1' 'SUBTRACT:XΩX DECDIFF Y        
+ ,LÊ0' ' ZΩZ DECSUM 1,LÊ0' ' ∏LOOP' 'DONE:ZΩZıSGNXıSGNY' ' ∏((SGNX=1)Î^/        
+XX=0)/0' ' ZΩZ DECDIFF SGNY'                                                    

@@ -1,0 +1,6 @@
+ FZXMATPROD FX ' C½A ZXMATPROD B;IO;X;AX;BX;RR;RA;RB;NOTEST' 'ä COMPUT        
+ ES THE MATRIX PRODUCT OF TWO NONSCALAR ARRAYS' 'ä OF INTEGER POLYNOMIAL        
+ S.' ' IO½1' ' DERR^/(1ó(ææA),ææB),(æA)[ý1+ææA]=1ÆæB' ' C½((RA½ý2ÇæA),(        
+ RB½ý1Ç1ÇæB),1)æ0' ' X½1=ì1ÆæB' ' RR½((æRA)+ìæRB),(ìæRA),ææC' ' NOTEST½1        
+ ' 'LOOP:AX½RRí(RB,RA,ý1ÆæA)æX/[ý1+ææA]A' ' BX½((ý1ÇæC),ý1ÆæB)æXðB' ' C½        
+XC ZXSUM AX ZXPROD BX' ' ¸(~1ÆX½ý1èX)/LOOP'                                     

@@ -1,0 +1,7 @@
+ FRXPRODRED FX ' C½RXPRODRED A;IO;RHO;D;E;CC;L;M;NOTEST' 'ä COMPUTES T        
+ HE PRODUCT REDUCTION ALONG THE LAST' 'ä AXIS OF AN ARRAY OF REAL POLYNO        
+ MIALS.' ' ¸(1òææC½A)/0' ' IO½1' ' L½õ/RHO½ý2ÇæC' ' C½(L,ý2ÆæC)æC' ' ¸(        
+ 0=(æC)[2])/ZERO' ' NOTEST½1' 'LOOP:¸(1=D½(æC)[2])/ONE' ' CC½((L,E,ý1ÆæC        
+ )ÆC)RXPROD(L,(-E½¾Dö2),ý1ÆæC)ÆC' ' ¸(Dô2õE)/ODD' ' C½CC' ' ¸LOOP' 'ODD:        
+ M½(+/ë\èëð0ôC[;E+1;])©ý1ÆæCC' ' C½((L,M)ÆC[;E+1;]),[2]((ý1ÇæCC),M)ÆCC'         
+X' ¸LOOP' 'ONE:C½(RHO,ý1ÆæC)æC' ' ¸0' 'ZERO:C½(RHO,1)æ1'                        

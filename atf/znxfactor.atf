@@ -1,0 +1,23 @@
+ FZNXFACTOR êFX ' GΩZNXFACTOR F;êIO;M;R;D;H;U;I;V;E;J;W;a;CNT;UD;ZNXRT;F        
+ 1' '‰ COMPUTES THE MONIC IRREDUCIBLE FACTORS OF AN' '‰ INTEGER POLYNOMI        
+ AL MODULO  n, WHICH MUST BE A' '‰ PRIME LESS THAN 1E7.  THE ALGORITHM U        
+ SED IS' '‰ PROBABILISTIC AND SO HAS A SMALL CHANCE OF' '‰ NOT FINDING A        
+ LL THE FACTORS.' ' DERR^/(n<10000000),(1=ÊZFACTOR n),(1=ÊÊF),,F=æF' ' D        
+ ERR 0ÛDΩ˝1++/Î\ËFÙ0' ' êIOΩ0' ' FΩ(D+1)∆n|FıZNINV F[D]' ' GΩ(0,D+1)ÊMΩ0        
+ ' ' RΩ0 1' 'LOOP:∏((DΩZNXDEGREE F)<2ıMΩM+1)/END' ' ZNXFINIT F' ' RΩD∆(F        
+  ZNXREM R)ZNXFPOWER n' ' ∏(1=ÊHΩF ZNXGCD0 R-D∆0 1)/LOOP' ' ∏(M=˝1+ÊH)/I        
+ RR' ' ∏(200>n*M)/SMALL' ' UΩ(1,ÊH)ÊH' 'LOOPA:∏(^/M=UDΩZNXDEGREE U)/ENDA        
+ ' ' IΩ(M<UD)Ï1' ' ZNXFINIT F1Ω(1+EΩUD[I])∆U[I;]' ' CNTΩ0' 'LOOPA1:∏(10<        
+ CNTΩCNT+1)/ENDA1' ' VΩÌ(EÊn)ò?5Ên*E' ' ∏(n=2)/EVEN' ' VΩ(5,E)∆V ZNXFPOW        
+ ER(˝1+n*M)ˆ2' ' VΩ(VÎ.Ù0)V' ' VΩ(VÎ.ÙE∆1)V' ' ∏(0=1∆ÊVΩ(VÎ.ÙE∆n-1)V)        
+ /LOOPA1' ' VΩV[0;]' ' ∏(1ÙÊWΩ(V+E∆1)ZNXGCD0 F1)/SPLIT' ' WΩV ZNXGCD0 F1        
+ ' ' ∏SPLIT' 'EVEN:JΩ1' ' WΩV' 'LOOPA1A:∏(MÛJΩJ+1)/ENDA1A' ' WΩn|W+VΩV Z        
+ NXFPROD V' ' ∏LOOPA1A' 'ENDA1A:WΩ(WÎ.Ù0)W' ' ∏(0=1∆ÊWΩ(WÎ.ÙE∆1)W)/LOO        
+ PA1' ' WΩF1 ZNXGCD0 WΩW[0;]' 'SPLIT:UΩ((IÙÏ1∆ÊU)U),[0]((ÊH)∆W),[˝0.5](        
+ ÊH)∆F1 ZNXQUOT W' ' ∏LOOPA' 'ENDA1:''BAD LUCK, YOU LOSE!''' ' ∏' 'ENDA:        
+ GΩG,[0]((1∆ÊU),˝1∆ÊG)∆U' ' FΩF ZNXQUOT H' ' ∏(1=ÊHΩF ZNXGCD0 H)/LOOP' '        
+  UΩ((U ZNXREM H)^.=0)U' ' ∏ENDA' 'SMALL:UΩ(Ì(MÊn)òÏn*M),1' ' UΩ((U ZNX        
+ REM H)^.=0)U' ' ∏ENDA' 'IRR:GΩG,[0](˝1∆ÊG)∆H' ' FΩF ZNXQUOT H' 'LOOPB:        
+ WΩF ZNXQUOT H' ' ∏(aÎ.Ù0)/LOOP' ' GΩG,[0](˝1∆ÊG)∆H' ' FΩW' ' ∏LOOPB' 'E        
+ ND:∏(D=0)/ONE' ' GΩG,[0](˝1∆ÊG)∆F' 'ONE:DΩZNXDEGREE,G[˝1+1∆ÊG;]' ' GΩ((        
+X1∆ÊG),D+1)∆G'                                                                  

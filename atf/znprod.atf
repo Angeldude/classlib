@@ -1,0 +1,7 @@
+ FZNPROD FX ' C½A ZNPROD B;RHO;D;Q;IO' 'ä COMPUTES  n|AõB  USING MULTI        
+ PLE PRECISION IF  n ò 1E7.' ' ¸NOTEST/BEGIN' ' DERR^/(,A=¾A½n|A),,B=¾B½        
+ n|B' 'BEGIN:¸(n>10000000)/GEN' ' C½n|AõB' ' ¸0' 'GEN:EXPAND' ' RHO½æA'         
+ ' IO½1' ' D½(Q½3æM½1000000)˜¾((A½,A)õB½,B)ön' ' A½Q˜A' ' B½Q˜B' ' C½(5        
+  3,1ÇæA)Æ((2 1 3í(3æ1)ø.õA)õ(3æ1)ø.õB)-(Q˜n)ø.õD' ' C½+/[2](0 ý1 ý2ø.õ(        
+ 1ÇæA)æ1)è[1]C' 'LOOP:C[1Çì5;]½ý499999+M|D½499999+1 0ÇC' ' C[ì4;]½(ý1 0Ç        
+XC)+¾DöM' ' ¸(ë/,0ôý3 0ÇC)/LOOP' ' C½n|RHOæM2 0ÇC'                             

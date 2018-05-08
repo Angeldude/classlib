@@ -1,0 +1,11 @@
+ FZNROWREDUCE êFX ' BΩZNROWREDUCE A;IO;I;J;K;L;M;X;U;GCD;s;Y;D;NOTEST;R'        
+  '‰ ROW REDUCES  A  MODULO  n, WHICH MUST BE LESS' '‰ THAN 1E7.  PRODUC        
+ ES  r, AN INVERTIBLE MATRIX MODULO  n' '‰ SUCH THAT  B  IS  r ZNMATPROD        
+  A, AND A VECTOR  v  LISTING' '‰ THE COLUMNS CONTAINING THE ''CORNER EN        
+ TRIES'' OF  B.' ' DERR^/(n<10000000),(,A=æA),2=ÊÊA' ' IOΩêIO' ' êIOΩNOT        
+ ESTΩ1' ' LΩ˝1∆ÊBΩn|A' ' RΩ(K,K)Ê1,(KΩ1∆ÊB)Ê0' ' vΩÏIΩJΩ0' 'LOOP1:∏((JÚK        
+ )ÎL<IΩI+1)/END' 'LOOP2:∏(^/0=UΩJ«B[;I])/LOOP1' ' MΩæ/(UÙ0)/U' ' XΩJ+UÏM        
+ ' ' DΩM ZGCD n' ' B[X;]Ωn|B[X;]ır' ' R[X;]Ωn|R[X;]ır' ' YΩ(XÙÏK)ıB[;I]Z        
+ QUOT(1∆ÊB)ÊB[X;I]' ' BΩn|B-Y¯.ıB[X;]' ' RΩn|R-Y¯.ıR[X;]' ' ∏(1=+/UÙ0)/E        
+ ND1' ' ∏LOOP2' 'END1:vΩv,I' ' B[J,X;]ΩB[X,JΩJ+1;]' ' R[J,X;]ΩR[X,J;]' '        
+X ∏LOOP1' 'END:vΩv-1-êIOΩIO' ' rΩR'                                             

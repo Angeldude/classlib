@@ -1,0 +1,7 @@
+ FRXMATPROD FX ' C½A RXMATPROD B;IO;X;AX;BX;RR;D;NOTEST;RA;RB' 'ä COMP        
+ UTES THE MATRIX PRODUCT OF TWO NONSCALAR ARRAYS' 'ä OF REAL POLYNOMIALS        
+ .' ' IO½1' ' DERR^/2ó(ææA),ææB' ' DERR(æA)[ý1+ææA]=1ÆæB' ' C½((RA½ý2Çæ        
+ A),(RB½ý1Ç1ÇæB),1)æ0' ' X½1=ì1ÆæB' ' RR½((æRA)+ìæRB),(ìæRA),ææC' ' NOTE        
+ ST½1' 'LOOP:AX½RRí(RB,RA,ý1ÆæA)æX/[ý1+ææA]A' ' BX½((ý1ÇæC),ý1ÆæB)æXðB'         
+ ' C½C RXSUM AX RXPROD BX' ' ¸(~1ÆX½ý1èX)/LOOP' ' D½1©©/,+/ë\è0ôC' ' C½(        
+X(ý1ÇæC),D)ÆC'                                                                  

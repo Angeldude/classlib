@@ -1,0 +1,9 @@
+ FZNXGCD0 êFX ' CΩA ZNXGCD0 B;M;R;RHO;I;T;D;LCI' '‰ COMPUTES GCD''S OF I        
+ NTEGER POLYNOMIALS MODULO' '‰ n  WITH A MINIMUM OF CHECKING AND WITHOUT        
+ ' '‰ EXPRESSING THE RESULT AS A LINEAR COMBINATION' '‰ OF THE ARGUMENTS        
+ .' ' DERR^/(n<10000000),(1=ÊZFACTOR n),(,A=æA),,B=æB' ' EXPANDV' ' MΩ1©        
+ +/Î\ËÎ0Ù((ı/˝1«ÊA),˝1∆ÊA)ÊAΩn|A' ' MΩM©+/Î\ËÎ0Ù((ı/˝1«ÊB),˝1∆ÊB)ÊBΩn|        
+ B' ' RΩı/RHOΩ˝1«ÊA' ' AΩ(R,M)Ê(RHO,M)∆A' ' BΩ(R,M)Ê(RHO,M)∆B' ' IΩÏR' '        
+ LOOP:∏(0=ÊIΩ(Î/B[I;]Ù0)/I)/END' ' TΩ((ÊI),M)∆B[I;]ZNXREM A[I;]' ' A[I;]        
+ ΩB[I;]' ' B[I;]ΩT' ' ∏LOOP' 'END:DΩ1©+/Î\ËÎ0ÙA' ' LCIΩZNINV(RHO,1)ÊZNX        
+XLEAD CΩ(RHO,D)Ê(R,D)∆A' ' CΩC ZNXPROD LCI'                                     

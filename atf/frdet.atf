@@ -1,0 +1,10 @@
+ FFRDET êFX ' DΩFRDET A;êIO;M;N;K;SIGN;X;NX;S;T;SGN;CFR;U' '‰ COMPUTES T        
+ HE DETERMINANT OF A MATRIX OVER THE FINITE RING,' '‰ WHICH MUST BE COMM        
+ UTATIVE.' ' êIOΩ0' ' DERR^/(FRTEST A),(2=ÊÊA),=/ÊA' ' DERR^/,FRTIMES=ÌF        
+ RTIMES' ' TΩ(2*NΩ1∆ÊA)Ê3-3' ' CFRΩÊFRNEG' ' MΩA[KΩ0;]' ' SIGNΩ1' ' NXΩ+        
+ /2*XΩ(N,1)ÊÏN' 'LOOP:∏(NÛKΩK+1)/END' ' T[NX]ΩÏÊNX' ' NXΩ+/2*XΩ(K+1)SSUB        
+  N' ' SΩT[(Ì((K+1),ÊNX)ÊNX)-2*X]' ' SIGNΩ-SIGN' ' UΩ(,FRTIMES)[A[K;X]+M        
+ [S]ıCFR]' ' MΩ(˝1«ÊU)Ê0' ' XΩ0=Ï˝1∆ÊU' ' SGNΩSIGN' 'LOOP2:∏(SGN=˝1)/NEG        
+ ' ' MΩ(,FRPLUS)[((ÊM)ÊX/U)+MıCFR]' ' ∏INCR' 'NEG:MΩ(,FRPLUS)[FRNEG[(ÊM)        
+ ÊX/U]+MıCFR]' 'INCR:SGNΩ-SGN' ' ∏(~1∆XΩ˝1ËX)/LOOP2' ' ∏LOOP' 'END:DΩ+/M        
+X'                                                                              

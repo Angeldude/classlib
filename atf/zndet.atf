@@ -1,0 +1,7 @@
+ FZNDET êFX ' DΩZNDET A;êIO;V;J;W;Q' '‰ COMPUTES THE DETERMINANT OF AN I        
+ NTEGER MATRIX' '‰ USING INTEGER ROW OPERATIONS MODULO  n.' ' DERR^/(n<1        
+ 0000000),(,A=æA),(2=ÊÊA),=/ÊAΩn|A' ' DΩêIOΩ1' ' ∏(0=1∆ÊA)/0' 'LOOP:∏(1=        
+ 1∆ÊA)/END' 'BACK:∏(^/0=VΩA[;1])/ZERO' ' JΩVÏæ/(VÙ0)/V' ' ∏(J=1)/OK' ' A        
+ [1,J;]ΩA[J,1;]' ' DΩn|-D' 'OK:∏(^/0=WΩ1«A[;1])/ENDLP' ' QΩ0,æWˆA[1;1]'         
+ ' AΩn|A-Q¯.ıA[1;]' ' ∏BACK' 'ENDLP:DΩn|DıA[1;1]' ' AΩ1 1«A' ' ∏LOOP' 'Z        
+XERO:∏DΩ0' 'END:DΩn|DıA[1;1]'                                                   

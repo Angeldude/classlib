@@ -1,0 +1,5 @@
+ FRXPROD FX ' C½A RXPROD B;IO;D' 'ä COMPUTES THE ENTRY-BY-ENTRY PRODUC        
+ T OF TWO ARRAYS' 'ä OF REAL POLYNOMIALS.' ' ¸NOTEST/BEGIN' ' EXPANDV' '        
+ BEGIN:IO½0' ' C½(Aø.õ(ý1ÆæB)æ1)õ((ìý1+ææA),0 ý1+ææA)íBø.õ(ý1ÆæA)æ1' '         
+ C½C,((æA),ý1+ý1ÆæA)æ0' ' C½+/[ý2+ææC]((æA)æ-ìý1ÆæA)èC' ' C½Cõ(|C)òEPSIL        
+XONõ©/,|C' ' D½1©©/,+/ë\èCô0' ' C½((ý1ÇæC),D)ÆC'                                

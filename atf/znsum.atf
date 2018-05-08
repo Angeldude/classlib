@@ -1,0 +1,3 @@
+ FZNSUM êFX ' CΩA ZNSUM B' '‰ COMPUTES THE SUM OF  A  AND  B  MODULO  n.        
+ ' '‰ A AND B MUST BE INTEGER ARRAYS.' ' ∏NOTEST/BEGIN' ' DERR^/(,A=æA),        
+X,B=æB' 'BEGIN:CΩn|A+B'                                                         

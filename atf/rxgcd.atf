@@ -1,0 +1,14 @@
+ FRXGCD êFX ' CΩA RXGCD B;êIO;M;U;V;R;RHO;I;Q;T;D;LA;LB;NOTEST;a' '‰ COM        
+ PUTES MONIC GCD''S OF REAL POLYNOMIALS.  THE' '‰ RESULT  C  IS  (r RXPR        
+ OD A) RXSUM s RXPROD B.' ' êIOΩ1' ' AΩAı(|A)ÚEPSILONı©/,|A' ' BΩBı(|B)Ú        
+ EPSILONı©/,|B' ' EXPANDV' ' MΩ1©+/Î\ËÎ0Ù((ı/˝1«ÊA),˝1∆ÊA)ÊA' ' MΩM©+/Î        
+ \ËÎ0Ù((ı/˝1«ÊB),˝1∆ÊB)ÊB' ' RΩı/RHOΩ˝1«ÊA' ' NOTESTΩ1' ' AΩ(R,M)Ê(RHO,        
+ M)∆A RXPROD LAΩ(RHO,1)ÊˆRXLEAD A' ' BΩ(R,M)Ê(RHO,M)∆B RXPROD LBΩ(RHO,1)        
+ ÊˆRXLEAD B' ' UΩ((ÊA)∆(R,1)ÊLA),[1]((ÊA)Ê0),[0.5]A' ' VΩ((ÊB)Ê0),[1]((Ê        
+ B)∆(R,1)ÊLB),[0.5]B' ' IΩÏR' 'LOOP:∏(0=ÊIΩ(Î/V[3;I;]Ù0)/I)/END' ' QΩ((Ê        
+ I),M)∆U[3;I;]RXQUOT V[3;I;]' ' TΩ(3,(ÊI),M)∆U[;I;]RXDIFF V[;I;]RXPROD(3        
+ ,ÊQ)ÊQ' ' T[3;;]ΩT[3;;]ı(|T[3;;])ÚÌ(Ë1«ÊT)ÊEPSILONı©/|V[3;I;]' ' TΩ(ÊT)        
+ ∆T RXPROD(3,(ÊI),1)ÊˆRXLEAD T[3;;]' ' U[;I;]ΩV[;I;]' ' V[;I;]ΩT' ' ∏LOO        
+ P' 'END:DΩ1©+/Î\ËÎ0ÙU[3;;]' ' CΩ(RHO,D)Ê(R,D)∆U[3;;]' ' DΩ1©+/Î\ËÎ0ÙU        
+ [1;;]' ' rΩ(RHO,D)Ê(R,D)∆U[1;;]' ' DΩ1©+/Î\ËÎ0ÙU[2;;]' ' sΩ(RHO,D)Ê(R,        
+XD)∆U[2;;]'                                                                     

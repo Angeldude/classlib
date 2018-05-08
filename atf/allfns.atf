@@ -1,0 +1,19 @@
+ FALLFNS êFX ' ALLFNS PN;NL;I;AA;êIO;ML;PAGE;M;J;X;Y;P' '‰ PRINTS A LIST        
+ ING OF THE PROCEDURES IN THE ACTIVE WORKSPACE,' '‰ EXCEPT FOR ITSELF AN        
+ D  LISTFN.  THE FIRST PAGE IS A LIST' '‰ OF THE NAMES OF THE PROCEDURES        
+ .  IT IS ASSUMED THAT THE' '‰ THE TERMINAL PRINTS 66 LINES PER PAGE.  T        
+ HE ARGUMENT  PN  IS' '‰ THE FIRST PAGE NUMBER OF THE LISTING TO BE PRIN        
+ TED.' '‰ NORMALLY  PN IS 1.' ' PΩ1' ' NLΩêNL 3' ' êIOΩ1' ' MΩ(ÊNL)[2]'         
+ ' IΩM+1' 'LOOP1:∏(0ÚIΩI-1)/LIST' ' NLΩNL[˚êAVÏNL[;I];]' ' ∏LOOP1' 'LIST        
+ :MLΩ((1∆ÊNL),15)∆NL' ' MLΩ(MLÎ.Ù''ALLFNS         '')ML' ' MLΩ(MLÎ.Ù''L        
+ ISTFN         '')ML' ' PAGEΩ52 0Ê''''' 'LOOP2:∏(0Ú1∆ÊML)/OK' ' PAGEΩPA        
+ GE,52 15∆ML' ' MLΩ52 0«ML' ' ∏LOOP2' 'OK:∏(P<PN)/SKIP0' ' (25Ê'' ''),''        
+ THE PROCEDURES''' ' '' ''' ' PAGE' ' 12 1Ê'' ''' 'SKIP0:IΩ0' ' PAGEΩ0 6        
+ 5Ê'' ''' 'LOOP:∏((1∆ÊNL)<IΩI+1)/END' ' ∏(^/''ALLFNS''=6∆NL[I;])/LOOP' '        
+  ∏(^/''LISTFN''=6∆NL[I;])/LOOP' ' ∏(0=1∆ÊAAΩLISTFN NL[I;])/LOOP' ' XΩ65        
+ «AA[1;]' ' ∏(^/X='' '')/ADD' ' JΩ65-+/^\~Ë'';''=YΩ65∆AA[1;]' ' AA[1;J+Ï        
+ 65-J]Ω'' ''' ' AAΩ(2ÙÏ1+1∆ÊAA)ÒAA' ' AA[2;]Ω(1«ÊAA)∆(10Ê'' ''),(J«Y),X'        
+  'ADD:PAGEΩPAGE,[1]((2+1∆ÊAA),65)∆AA' 'PRINT:∏(46Ú1∆ÊPAGE)/LOOP' ' PΩP+        
+ 1' ' ∏(57Û1∆ÊPAGE)/PARTIAL' ' ∏(P<PN)/SKIP1' ' 66 65∆PAGE' 'SKIP1:PAGEΩ        
+ 0 65Ê'' ''' ' ∏LOOP' 'PARTIAL:∏(P<PN)/SKIP2' ' 52 65∆PAGE' ' 14 1Ê'' ''        
+X' 'SKIP2:PAGEΩ52 0«PAGE' ' ∏PRINT' ' ∏LOOP' 'END:PAGE'                         

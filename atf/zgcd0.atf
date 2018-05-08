@@ -1,0 +1,6 @@
+ FZGCD0 êFX ' CΩA ZGCD0 B;RHO;T;I' '‰ COMPUTES INTEGER GCD''S WITH A MIN        
+ IMUM AMOUNT OF' '‰ CHECKING AND WITHOUT EXPRESSING THE RESULT AS A' '‰         
+ LINEAR COMBINATION OF THE ARGUMENTS.' ' ∏NOTEST/BEGIN' ' DERR^/(,A=æA),        
+ ,B=æB' ' EXPAND' 'BEGIN:RHOΩÊA' ' IΩÏÊAΩ|,A' ' BΩ|,B' 'LOOP:∏(0=ÊIΩ(B[I        
+ ]Ù0)/I)/END' ' TΩB[I]|A[I]' ' A[I]ΩB[I]' ' B[I]ΩT' ' ∏LOOP' 'END:CΩRHOÊ        
+XA'                                                                             

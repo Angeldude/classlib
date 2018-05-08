@@ -1,0 +1,17 @@
+ FZREDUCE FX ' B½ZREDUCE A;IO;I;J;K;L;M;Q;D;Y;Z;X;V' 'ä REDUCES AN INT        
+ EGER MATRIX.  PRODUCES INVERTIBLE' 'ä INTEGER MATRICES  r  AND  s  SUCH        
+  THAT  B  IS' 'ä THE MATRIX PRODUCT OF  r,  A  AND  s.' ' IO½0' ' DERR        
+ ^/(2=ææA),,B=¾B½A' ' r½(K,K)æ1,(K½1ÆæB)æ0' ' s½(L,L)æ1,(L½1ÇæB)æ0' ' I½        
+ ý1' 'LOOPI:¸(^/0=D½|,(I,I½I+1)ÇB)/0' ' V½I+((æB)-I)˜Dì¾/(Dô0)/D' ' X½B[        
+ J½V[0];K½V[1]]' 'COL:¸(^/0=D½|X|B[;K])/ROW' ' L½Dì¾/(Dô0)/D' ' B[L;]½B[        
+ L;]-(Q½¾(B[L;K]-X|B[L;K])öX)õB[J;]' ' r[L;]½r[L;]-Qõr[J;]' ' X½B[J½L;K]        
+ ' ' ¸COL' 'ROW:¸(^/0=D½|X|B[J;])/GENERAL' ' M½Dì¾/(Dô0)/D' ' B[;M]½B[;M        
+ ]-(Q½¾(B[J;M]-X|B[J;M])öX)õB[;K]' ' s[;M]½s[;M]-Qõs[;K]' ' X½B[J;K½M]'         
+ ' ¸COL' 'GENERAL:¸(^/0=D½|X|,(I,I)ÇB)/END' ' V½I+((æB)-I)˜Dì¾/(Dô0)/D'         
+ ' B[L;]½B[L;]-(Q½ý1+¾B[L½V[0];K]öX)õB[J;]' ' r[L;]½r[L;]-Qõr[J;]' ' B[;        
+ M]½B[;M]-(Q½¾(B[L;M]-X|B[L;M½V[1]])öX)õB[;K]' ' s[;M]½s[;M]-Qõs[;K]' '         
+ X½B[J½L;K½M]' ' ¸COL' 'END:B[I,J;]½B[J,I;]' ' r[I,J;]½r[J,I;]' ' B[;I,K        
+ ]½B[;K,I]' ' s[;I,K]½s[;K,I]' ' B[I;]½B[I;]õõX' ' r[I;]½r[I;]õõX' ' B[Y        
+ ;]½B[Y;]-(Q½¾B[Y½(I+1)Çì1ÆæB;I]öB[I;I])ø.õB[I;]' ' r[Y;]½r[Y;]-Qø.õr[I;        
+ ]' ' B[;Z]½B[;Z]-B[;I]ø.õQ½¾B[I;Z½(I+1)Çì1ÇæB]öB[I;I]' ' s[;Z]½s[;Z]-s[        
+X;I]ø.õQ' ' ¸LOOPI'                                                             

@@ -1,0 +1,9 @@
+ FZXINTERP êFX ' CΩA ZXINTERP B;êIO;L;RHO;RC;G;I;M;N;NOTEST;D' '‰ INTERP        
+ OLATES INTEGER POLYNOMIALS.  THE VECTOR  A' '‰ GIVES THE INTEGER VALUES        
+  OF THE ARGUMENT AND THE' '‰ VECTORS ALONG THE LAST AXIS OF  B  GIVE TH        
+ E INTEGER' '‰ VALUES WHICH THE POLYNOMIALS ARE TO HAVE.' ' êIOΩ1' ' DER        
+ R^/(1=ÊÊA),(0<ÊA),(A=æA),(,B=æB),(0<ÊÊB),(1∆ÊA)=˝1∆ÊB' ' RCΩı/RHOΩ˝1«ÊB        
+ ' ' BΩ(RC,LΩÊA)ÊB' ' CΩ(RC,1)ÊB[;1]' ' GΩ(-A[1]),1' ' NOTESTΩIΩ1' 'LOOP        
+ :∏(L<IΩI+1)/END' ' MΩ(RC,1)ÊB[;I]-C ZXEVAL RCÊA[I]' ' NΩG ZXEVAL A[I]'         
+ ' DERR^/,0=N|M' ' CΩC ZXSUM((RC,ÊG)ÊG)ZXPRODæMˆN' ' GΩG ZXPROD(-A[I]),1        
+X' ' ∏LOOP' 'END:CΩ(RHO,˝1∆ÊC)ÊC' ' DΩ1©©/,+/Î\ËCÙ0' ' CΩ(RHO,D)∆C'             

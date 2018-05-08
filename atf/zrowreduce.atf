@@ -1,0 +1,11 @@
+ FZROWREDUCE êFX ' BΩZROWREDUCE A;IO;I;J;K;L;D;E;F;X;Y;N;M' '‰ ROW REDUC        
+ ES THE INTEGER MATRIX  A.  PRODUCES  r, AN' '‰ INVERTIBLE INTEGER MATRI        
+ X SUCH THAT  B  IS  r+.ıA.' '‰ ALSO PRODUCES A VECTOR v LISTING THE COL        
+ UMNS CONTAINING' '‰ THE CORNER ENTRIES OF B.' ' DERR^/(2=ÊÊA),,A=æA' '         
+ IOΩêIO' ' êIOΩ1' ' LΩ˝1∆ÊBΩA' ' rΩ(K,K)Ê1,(KΩ1∆ÊB)Ê0' ' vΩÏIΩJΩ0' 'LOOP        
+ :∏((JÚK)ÎL<IΩI+1)/END' 'BACK:∏(0=ÊDΩ(EÙ0)/EΩ|J«B[;I])/LOOP' ' XΩJ+EÏNΩæ        
+ /D' ' FΩ((XÙYΩJ«ÏK)ıJ«B[;I])ZQUOT B[X;I]' ' B[Y;]Ω((J,0)«B)-F¯.ıB[X;]'         
+ ' r[Y;]Ω((J,0)«r)-F¯.ır[X;]' ' ∏(1<+/0ÙJ«B[;I])/BACK' ' vΩv,I' ' B[J,X;        
+ ]ΩB[X,JΩJ+1;]' ' r[J,X;]Ωr[X,J;]' ' B[J;]ΩB[J;]ıMΩıB[J;I]' ' r[J;]Ωr[J;        
+ ]ıM' ' FΩB[YΩÏJ-1;I]ZQUOT B[J;I]' ' B[Y;]ΩB[Y;]-F¯.ıB[J;]' ' r[Y;]Ωr[Y;        
+X]-F¯.ır[J;]' ' ∏LOOP' 'END:vΩv-1-êIOΩIO'                                       

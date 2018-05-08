@@ -1,0 +1,9 @@
+ FRXDET êFX ' DΩRXDET A;êIO;V;M;X;J;W;Q;R;S;U;DEG;a;NOTEST' '‰ COMPUTES         
+ THE DETERMINANT OF A MATRIX' '‰ OF REAL POLYNOMIALS.' ' DERR(3=ÊÊA)^=/2        
+ ∆ÊA' ' DΩ,êIOΩ1' ' ∏(0=1∆ÊA)/0' ' AΩAı(|A)ÚEPSILONı©/,|A' ' NOTESTΩ1' '        
+ LOOP:∏(1=1∆ÊA)/END' 'BACK:∏(^/˝1=DEGΩRXDEGREE VΩA[;1;])/ZERO' ' MΩæ/(DE        
+ G>˝1)/DEG' ' XΩ(M=DEG)/ÏÊDEG' ' JΩX[(|V[X;M+1])Ï©/|V[X;M+1]]' ' ∏(J=1)/        
+ OK' ' A[1,J;;]ΩA[J,1;;]' ' DΩ-D' 'OK:∏(^/,0=WΩ1 0«A[;1;])/ENDLP' ' QΩ(-        
+ 1 0+ÊU)∆UΩW RXQUOT A[1;1;]' ' RΩTRAV((2∆ÊA),˝1∆ÊQ)ÊQ' ' SΩ(ÊA)ÊA[1;;]'         
+ ' AΩA RXDIFF R RXPROD S' ' ∏BACK' 'ENDLP:DΩD RXPROD A[1;1;]' ' AΩ1 1 0«        
+XA' ' ∏LOOP' 'ZERO:DΩ,0' ' ∏0' 'END:DΩD RXPROD A[1;1;]'                         

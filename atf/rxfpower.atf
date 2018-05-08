@@ -1,0 +1,7 @@
+ FRXFPOWER êFX ' CΩA RXFPOWER B;R;RHO;I;J;M;N;D' '‰ COMPUTES THE B-TH PO        
+ WER OF  A  IN THE CURRENT' '‰ QUOTIENT OF  R[X].' ' BΩ((ÊB),1)ÊB' ' EXP        
+ ANDV' ' DERR(MΩ˝1∆ÊA)ÛNΩ˝1∆ÊRXRT' ' RΩı/RHOΩ˝1«ÊA' ' AΩ(R,N)∆(R,MΩ˝1∆ÊA        
+ )ÊA' ' CΩ(R,N)ÊN∆1' ' IΩ(B>0)/ÏÊBΩ,B' 'LOOP:C[J;]Ω((ÊJ),N)∆C[J;]RXFPROD        
+  A[JΩ(2|B[I])/I;]' ' ∏(0=ÊIΩ(B[I]Ú2)/I)/END' ' A[I;]Ω((ÊI),N)∆A[I;]RXFP        
+ ROD A[I;]' ' B[I]ΩæB[I]ˆ2' ' ∏LOOP' 'END:DΩ1©©/,+/Î\Ë0ÙC' ' CΩ(RHO,D)Ê(        
+XR,D)∆C'                                                                        

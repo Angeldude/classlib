@@ -1,0 +1,6 @@
+ FZNAPOWER FX ' C½A ZNAPOWER B;R;RHO;I;J;M' 'ä COMPUTES THE B-TH POWER         
+ OF  A  IN THE CURRENT' 'ä ZN-ALGEBRA.  n  MUST NOT EXCEED 1E7.' ' DERR^        
+ /(nó1000000),(,B=¾B),,Bò0' ' A½ZNANRMLZ A' ' B½((æB),1)æB' ' EXPANDV' '        
+  R½õ/ý1ÇRHO½æA' ' A½(R,M½ý1ÆæA)æA' ' C½(æA)æMÆ1' ' I½(B>0)/ìæB½,B' 'LOO        
+ P:C[J;]½C[J;]ZNAPROD A[J½(2|B[I])/I;]' ' ¸(0=æI½(B[I]ò2)/I)/END' ' A[I;        
+X]½A[I;]ZNAPROD A[I;]' ' B[I]½¾B[I]ö2' ' ¸LOOP' 'END:C½RHOæC'                   

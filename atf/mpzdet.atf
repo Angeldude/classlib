@@ -1,0 +1,8 @@
+ FMPZDET êFX ' DΩMPZDET A;êIO;E;N;n;F;G;P;I;q;N2' '‰ MULTIPLE PRECISION         
+ DETERMINANT OF A SINGLE PRECISION' '‰ INTEGER MATRIX A LA CABAY AND LAM        
+ .' ' DERR^/(2=ÊÊA),(=/ÊA),,A=æA' ' êIOΩ1' ' EΩ(µ2)++/µ(+/AıA)*0.5' ' DE        
+ RR(ÊBIGPRIMES)ÚNΩ©EˆµBIGPRIMES[1]' ' N2Ωæ0.5ınΩBIGPRIMES[1]' ' DΩ,(n|N2        
+ +ZNDET A)-N2' ' PΩ,1' ' IΩ1' 'LOOP:∏(N<IΩI+1)/END' ' N2Ωæ0.5ınΩBIGPRIME        
+ S[I]' ' FΩZNDET A' ' GΩ(n|N2+BIGINV[I]ıF-1000000ù(,n)MPZREM0 D)-N2' ' P        
+ ΩP MPZPROD0,BIGPRIMES[I-1]' ' DΩD MPZSUM0 P MPZPROD0,G' ' ∏LOOP' 'END:D        
+XΩMPZFORM D'                                                                    

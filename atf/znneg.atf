@@ -1,0 +1,3 @@
+ FZNNEG êFX ' BΩZNNEG A' '‰ COMPUTES THE NEGATIVE OF  A  MODULO  n.' '‰         
+ A MUST BE AN INTEGER ARRAY.' ' ∏NOTEST/BEGIN' ' DERR^/,A=æA' 'BEGIN:BΩn        
+X|-A'                                                                           

@@ -1,0 +1,7 @@
+ FZDET êFX ' DΩZDET A;êIO;V;J;W;Q' '‰ COMPUTES THE DETERMINANT OF AN INT        
+ EGER MATRIX' '‰ USING INTEGER ROW OPERATIONS.' ' DERR^/(,A=æA),(2=ÊÊA),        
+ =/ÊA' ' DΩêIOΩ1' ' ∏(0=1∆ÊA)/0' 'LOOP:∏(1=1∆ÊA)/END' 'BACK:∏(^/0=VΩ|A[;        
+ 1])/ZERO' ' JΩVÏæ/(VÙ0)/V' ' ∏(J=1)/OK' ' A[1,J;]ΩA[J,1;]' ' DΩ-D' 'OK:        
+ ∏(^/0=WΩ1«A[;1])/ENDLP' ' QΩ0,(æWˆ|A[1;1])ııA[1;1]' ' AΩA-Q¯.ıA[1;]' '         
+ ∏BACK' 'ENDLP:DΩDıA[1;1]' ' AΩ1 1«A' ' ∏LOOP' 'ZERO:∏DΩ0' 'END:DΩDıA[1;        
+X1]'                                                                            

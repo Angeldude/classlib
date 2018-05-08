@@ -1,0 +1,6 @@
+ FGPSGP êFX ' HΩGPSGP X;N;HP;V;VP' '‰ COMPUTES THE PERMUTATION GROUP GEN        
+ ERATED BY THE' '‰ ROWS OF THE MATRIX  X.  VALID FOR DEGREES AT MOST 12.        
+ ' '‰ WORKSPACE FULL ERRORS ARE LIKELY FOR DEGREES OVER 7.' ' DERR(GPTES        
+ T X)^(2=ÊÊX)^12Ú˝1∆ÊX' ' NΩ˝1∆ÊX' ' HΩ(NÊN+1)òHPΩSSORT(N+1)ù(ÏN),VΩXΩÌX        
+ ' 'LOOP:HPΩHP,VPΩSSORT(~VPÓHP)/VPΩ,(N+1)ùX[V;]' ' HΩH,VΩ(NÊN+1)òVP' ' ∏        
+X(0ÙÊVP)/LOOP' ' HΩÌH'                                                          

@@ -1,0 +1,12 @@
+ FZNXROWREDUCE êFX ' BΩZNXROWREDUCE A;IO;I;J;K;L;C;D;M;a' '‰ ROW REDUCES        
+  A MATRIX OF POLYNOMIALS IN  ZN[X].' '‰ n MUST BE A PRIME.  PRODUCES AN        
+  INVERTIBLE MATRIX  r' '‰ OF POLYNOMIALS SUCH THAT  B  IS  r ZNXMATPROD        
+  A.' '‰ THE VECTOR  v  LISTS THE CORNER ENTRIES OF  B.' ' DERR^/(1=ÊZFA        
+ CTOR n),(3=ÊÊA),,A=æA' ' BΩn|A' ' IOΩêIO' ' êIOΩ1' ' vΩÏ0' ' rΩ(K,K,1)Ê        
+ 1,(KΩ1∆ÊB)ÊIΩJΩ0' 'LOOP:∏((JÚ1∆ÊB)Î(ÊB)[2]<IΩI+1)/END' 'BACK:∏(0=ÊDΩ(CÚ        
+ 0)/CΩZNXDEGREE(J,0)«B[;I;])/LOOP' ' KΩJ+CÏæ/D' ' CΩB[;I;]ZNXQUOT B[K;I;        
+ ]' ' C[K;]Ω0' ' DΩ2 1 3Ì((ÊB)[2],ÊC)ÊC' ' BΩB ZNXDIFF D ZNXPROD(ÊB)ÊB[K        
+ ;;]' ' DΩ2 1 3Ì((Êr)[2],ÊC)ÊC' ' rΩr ZNXDIFF D ZNXPROD(Êr)Êr[K;;]' ' ∏(        
+ 1<+/Î/0Ù(J,0)«B[;I;])/BACK' ' vΩv,I' ' B[J,K;;]ΩB[K,JΩJ+1;;]' ' r[J,K;;        
+ ]Ωr[K,J;;]' ' B[J;;]Ωn|B[J;;]ıMΩZNINV ZNXLEAD B[J;I;]' ' r[J;;]Ωn|r[J;;        
+X]ıM' ' ∏LOOP' 'END:vΩv-1-êIOΩIO'                                               

@@ -1,0 +1,6 @@
+ FFRPOWER FX ' C½A FRPOWER B;RHO;I;J;IO;M' 'ä COMPUTES THE B-TH POWER         
+ OF  A  IN THE FINITE RING' 'ä USING THE BINARY POWER ALGORITHM.' ' IO½        
+ 0' ' DERR(FRTEST A)^^/,(B=¾B),Bò0' ' EXPAND' ' RHO½æA' ' C½(æA½,A)æ1' '        
+  I½(B>0)/ìæB½,B' ' M½1ÆæFRTIMES' 'LOOP:C[J]½(,FRTIMES)[A[J]+MõC[J½(2|B[        
+ I])/I]]' ' ¸(0=æI½(B[I]ò2)/I)/END' ' A[I]½(,FRTIMES)[A[I]õM+1]' ' B[I]½        
+X¾B[I]ö2' ' ¸LOOP' 'END:C½RHOæC'                                                

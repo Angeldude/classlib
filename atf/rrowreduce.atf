@@ -1,0 +1,9 @@
+ FRROWREDUCE êFX ' BΩRROWREDUCE A;IO;I;J;K;L;M;F;X' '‰ ROW REDUCES THE R        
+ EAL MATRIX  B.  PRODUCES  r, AN' '‰ INVERTIBLE REAL MATRIX SUCH THAT  B        
+   IS  r+.ıA.' '‰ THE VECTOR  v  LISTS THE COLUMNS CONTAINING THE' '‰ CO        
+ RNER ENTRIES OF  B.' ' DERR 2=ÊÊBΩAı(|A)ÚEPSILONı©/,|A' ' IOΩêIO' ' êIO        
+ Ω1' ' LΩ˝1∆ÊB' ' rΩ(K,K)Ê1,(KΩ1∆ÊB)Ê0' ' vΩÏIΩJΩ0' 'LOOP:∏((JÚK)ÎL<IΩI+        
+ 1)/END' ' ∏(0=MΩ©/CΩ|J«B[;I])/LOOP' ' vΩv,I' ' XΩJ+CÏM' ' B[J,X;]ΩB[X,J        
+ ΩJ+1;]' ' r[J,X;]Ωr[X,J;]' ' B[J;]ΩB[J;]ıMΩˆB[J;I]' ' r[J;]Ωr[J;]ıM' '         
+ FΩ(JÙÏK)ıB[;I]' ' BΩBı(|B)ÚEPSILONı©/,|BΩB-F¯.ıB[J;]' ' rΩr-F¯.ır[J;]'         
+X' ∏LOOP' 'END:vΩv-1-êIOΩIO' ' rΩrı(|r)ÚEPSILONı©/,|r'                          

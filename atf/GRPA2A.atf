@@ -1,0 +1,16 @@
+XNPP 0 10                                                                     ø
+XNIO 0 1                                                                      ø
+XNCT 0 3Eý15                                                                  ø
+XCFC 1 6 .,*0_ý                                                               ø
+XNRL 0 16807                                                                  ø
+XCPR 1 1                                                                      ø
+XCLX 1 0                                                                      ø
+ CGRPA2A 2 57 10 APL2ASCII ASCII2APL DEFINEFNS DUMPWS    GRPA2A    INSER       ø
+ TFNS KEEPUS    LOADWS    TFREAD    TFWRITE   ÷APLNAME  ÷APLVER   ÷A2AVE       ø
+ R   ÷ALPHS    ÷ASCII    ÷DEDUBL   ÷DLB      ÷DLTB     ÷DTB      ÷DUMPSU       ø
+ B  ÷EDRANK   ÷EJCASE   ÷FMTVAL   ÷FMTVAR   ÷FNNAME   ÷GENSYM   ÷GETVAL        ø
+   ÷IFNEST   ÷LJUST    ÷LOADSUB  ÷MATIOTA  ÷MTOV     ÷MUTE     ÷OUT            ø
+  ÷OVER     ÷PGWID    ÷QUADCASE ÷QVARS    ÷RJUST    ÷TCNL     ÷TCLF            ø
+ ÷TELPRINT ÷TOLOWER  ÷TTABM    ÷TTABX    ÷UNWRAPLNS÷USLTOAPL ÷USLTOASC ÷       ø
+ VTOM     ÷WITHTTM  ÷WITHTTX  ÷WRAPLNS  ÷WSID     ÷XNUMS    ¶FV       ÷O       ø
+XPSYS    ÷TFTRANS                                                              ø

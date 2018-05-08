@@ -1,0 +1,4 @@
+ FZNMATPROD êFX ' CΩA ZNMATPROD B' '‰ COMPUTES THE MATRIX PRODUCT OF THE        
+  ARRAYS  A  AND  B' '‰ MODULO  n, WHICH IS ASSUMED TO BE LESS THAN 1E7.        
+ ' ' ∏NOTEST/BEGIN' ' DERR^/(,A=AΩn|A),(,B=æBΩn|B),n<10000000' 'BEGIN:CΩ        
+Xn|A+.ıB'                                                                       

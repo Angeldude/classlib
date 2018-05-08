@@ -1,0 +1,9 @@
+ FZGCD êFX ' CΩA ZGCD B;êIO;RHO;M;U;V;I;Q;T' '‰ C  IS RETURNED AS THE EN        
+ TRY-BY-ENTRY GCD OF THE INTEGER' '‰ ARRAYS  A  AND  B.' '‰ THE VARIABLE        
+ S r AND s EXPRESS C AS(rıA)+sıB.' ' êIOΩ1' ' ∏NOTEST/BEGIN' ' DERR^/(,A        
+ =æA),,B=æB' '‰ TEST FOR CONFORMABILITY.' ' EXPAND' '‰ REPLACE  A  AND          
+ B  BY THEIR RAVELS AND' '‰ APPLY THE EUCLIDEAN ALGORITHM.' 'BEGIN:MΩı/R        
+ HOΩÊA' ' UΩ(3,M)Ê(ıA),(MÊ0),|AΩ,A' ' VΩ(ÊU)Ê(MÊ0),(ıB),|BΩ,B' ' IΩÏM' '        
+ LOOP:∏(0=ÊIΩ(V[3;I]Ù0)/I)/END' ' TΩU[;I]-V[;I]ı(3,ÊI)ÊæU[3;I]ˆV[3;I]' '        
+  U[;I]ΩV[;I]' ' V[;I]ΩT' ' ∏LOOP' 'END:CΩRHOÊU[3;]' ' rΩRHOÊU[1;]' ' sΩ        
+XRHOÊU[2;]'                                                                     

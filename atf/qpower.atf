@@ -1,0 +1,6 @@
+ FQPOWER FX ' C½A QPOWER B;RHO;RC;I;J;NOTEST' 'ä COMPUTES THE B-TH POWE        
+ R OF THE RATIONAL' 'ä ARRAY  A  USING THE BINARY POWER ALGORITHM.' ' NO        
+ TEST½0' ' A½QNRMLZ A' ' DERR^/(,B=¾B),,Bò0' ' B½((æB),1)æB' ' EXPANDV'         
+ ' RC½(õ/ý1ÇRHO½æA),2' ' A½RCæA' ' C½RCæ1 1' ' I½(B>0)/ìæB½,B' ' NOTEST½        
+ 1' 'LOOP:C[J;]½C[J;]QPROD A[J½(2|B[I])/I;]' ' ¸(0=æI½(B[I]ò2)/I)/END' '        
+X A[I;]½A[I;]QPROD A[I;]' ' B[I]½¾B[I]ö2' ' ¸LOOP' 'END:C½RHOæC'                

@@ -1,0 +1,5 @@
+ FRDET FX ' D½RDET A;IO;K;M;I;J;X;Y' 'ה COMPUTES AN APPROXIMATION TO T        
+ HE DETERMINANT OF' 'ה THE REAL MATRIX  A.' ' DERR(2=זזA)^=/זA' ' D½IO½        
+ 1' 'LOOP:¸(0=K½1ֶזA)/0' ' A½Aץ(|A)עEPSILONץM½©/,|A' ' ¸(M=0)/ZERO' ' I½        
+ (©/|A)לM' ' J½(|A[I;])לM' ' D½DץA[I;J]ץ‎1*I+J' ' X½A[I;]צA[I;J]' ' A½(I        
+XפלK)נA' ' A½(JפלK)/A-A[;J]ר.ץX' ' ¸LOOP' 'ZERO:D½0'                            

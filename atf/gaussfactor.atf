@@ -1,0 +1,10 @@
+ FGAUSSFACTOR FX ' C½GAUSSFACTOR A;IO;P;I;J;U;Q;NOTEST' 'ä PRODUCES A         
+ LIST OF GAUSSIAN PRIMES WHOSE PRODUCT' 'ä IS AN ASSOCIATE OF THE NONZER        
+ O GAUSSIAN INTEGER  A.' 'ä NO RATIONAL PRIME IN THE NORM OF  A  MAY BE'        
+  'ä LARGER THAN 10000.' ' DERR^/(,A=¾A),(1òææA),(ë/,Aô0),(õ/æA)î1 2' '         
+ C½0 2æ0' ' IO½1' ' ¸(0=æP½SSORT ZFACTOR A+.õA½2ÆA)/0' ' DERR 10000>ý1Æ        
+ P' ' Q½((2=P[1]),2)æ1 1' ' Q½Q,[1]((3=4|P)/P),[1.5]0' ' NOTEST½1' ' ¸(0        
+ =æP½(1=4|P)/P)/LOOP' ' I½SFEL U=¾U½(0©Pø.-(ì¾(ý1ÆP)*0.5)*2)*0.5' ' Q½Q,        
+ [1]í(I,I),[0.5]J,-J½¾(P-IõI)*0.5' 'LOOP:¸(0=æQ½(^/0=Q GAUSSREM(æQ)æA)ðQ        
+ )/END' ' C½C,[1]Q' ' A½¾A CQUOT CPRODRED Q' ' ¸LOOP' 'END:C½C[ûC[;2];]'        
+X ' C½C[û+/C*2;]'                                                               

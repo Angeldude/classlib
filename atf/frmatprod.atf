@@ -1,0 +1,6 @@
+ FFRMATPROD êFX ' CΩA FRMATPROD B;M;RHO;RR;X;AX;BX;êIO;RA;RB' '‰ COMPUTE        
+ S THE MATRIX PRODUCT OF TWO NONSCALAR ARRAYS' '‰ OVER THE FINITE RING.'        
+  ' êIOΩ0' ' DERR(FRTEST A)^(FRTEST B)^(^/0<(ÊÊA),ÊÊB)^(˝1∆ÊA)=1∆ÊB' ' R        
+ HOΩ(RAΩ˝1«ÊA),RBΩ1«ÊB' ' RRΩ((ÊRA)+ÏÊRB),ÏÊRA' ' CΩRHOÊ0' ' MΩ1∆ÊFRTIME        
+ S' ' XΩ(1∆ÊB)∆1' 'LOOP:AXΩRRÌ(RB,RA)ÊX/A' ' BXΩRHOÊXB' ' CΩ(,FRPLUS)[(        
+X,FRTIMES)[BX+AXıM]+CıM]' ' ∏(~1∆XΩ˝1ËX)/LOOP'                                  

@@ -1,0 +1,14 @@
+ FGTCHECK êFX ' TΩGTCHECK G;êIO;E;N;M;I;GTABLE;GTIO;GTINV' '‰ CHECKS WHE        
+ THER  G  IS A GROUP TABLE WITH IDENTITY' '‰ EQUAL TO THE INDEX ORIGIN.'        
+  '‰ IS  G  A SQUARE INTEGER MATRIX?' ' ∏(Î/(2ÙÊÊG),(Ù/ÊG),,GÙæG)/NO' '‰        
+  THE ORIGIN SHOULD BE SET EQUAL TO  æ/,G' ' ∏(^/0 1ÙEΩæ/,G)/NO' ' GTIOΩ        
+ êIOΩE' '‰ CHECK CLOSURE.' ' ∏(Î/,G>MΩ˝1+êIO+NΩ1∆ÊG)/NO' '‰ ANY BINARY O        
+ PERATION ON  Ï1  IS A GROUP.' ' ∏(N=1)/YES' '‰ CHECK FOR TWO-SIDED IDEN        
+ TITY.' ' ∏(Î/(G[êIO;]ÙÏN),G[;êIO]ÙÏN)/NO' '‰ COPY  G  INTO  GTABLE FOR         
+ USE IN  GTSGP  AND' '‰ SET  G  TO 1 TO SAVE SPACE.' ' GTINIT G' ' GΩ1'         
+ '‰ TRY TO FIND A GENERATING SET  U  WITH  NÚ2*ÊU.' ' UΩÏ0' ' XΩêIO=ÏN'         
+ 'LOOP1:∏(M<IΩXÏ0)/TEST' ' ∏(N<2*ÊUΩU,I)/NO' ' X[GTSGP U]Ω1' ' ∏LOOP1' '        
+ ‰ MAKE SURE ELEMENTS OF  U  HAVE LEFT INVERSES.' 'TEST:∏(~^/ÎGTABLE[;U        
+ ]=êIO)/NO' '‰ CHECK ASSOCIATIVITY FOR TRIPLES WITH THIRD' '‰ ELEMENT IN        
+   U.' ' IΩêIO-1' 'LOOP2:∏((êIO+ÊU)ÛIΩI+1)/YES' ' ∏(Î/GTABLE[GTABLE;U[I]        
+X]ÙGTABLE[;GTABLE[;U[I]]])/NO' ' ∏LOOP2' 'NO:∏TΩ0' 'YES:TΩ1'                    

@@ -1,0 +1,6 @@
+ FZXFPOWER FX ' C½A ZXFPOWER B;R;RHO;I;J;M;N;D' 'ä COMPUTES THE B-TH PO        
+ WER OF  A  IN THE CURRENT' 'ä QUOTIENT OF  R[X].' ' B½((æB),1)æB' ' EXP        
+ ANDV' ' N½ý1ÆæZXRT' ' R½õ/RHO½ý1ÇæA' ' A½(R,M½ý1ÆæA)æA' ' C½(R,N)æNÆ1'         
+ ' I½(B>0)/ìæB½,B' 'LOOP:C[J;]½((æJ),N)ÆC[J;]ZXFPROD A[J½(2|B[I])/I;]' '        
+  ¸(0=æI½(B[I]ò2)/I)/END' ' A[I;]½A[I;]ZXFPROD A[I;]' ' B[I]½¾B[I]ö2' '         
+X¸LOOP' 'END:D½1©©/,+/ë\è0ôC' ' C½(RHO,D)æ(R,D)ÆC'                              

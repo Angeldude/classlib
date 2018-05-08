@@ -1,0 +1,3 @@
+ FFRSUM êFX ' CΩA FRSUM B;êIO' '‰ COMPUTES THE SUM OF TWO ARRAYS OVER TH        
+ E FINITE RING.' ' êIOΩ0' ' ∏NOTEST/BEGIN' ' DERR(FRTEST A)^FRTEST B' '         
+XEXPAND' 'BEGIN:CΩ(,FRPLUS)[B+Aı1∆ÊFRPLUS]'                                     

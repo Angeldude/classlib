@@ -1,0 +1,6 @@
+ FZNXIRRED êFX ' AΩZNXIRRED M;êIO;I;F;J;C' '‰ COMPUTES A MATRIX LISTING         
+ THE MONIC IRREDUCIBLE' '‰ POLYNOMIALS OF DEGREE AT MOST  M OVER THE INT        
+ EGERS' '‰ MODULO  n, WHICH MUST BE A PRIME LESS THAN  1E7.' ' DERR^/(n<        
+ 10000000),(1=ÊZFACTOR n),1ÛM' ' êIOΩ0' ' AΩ(0,M+1)Ê0' ' IΩÏ1∆ÊCΩZNXMONI        
+ C M' 'LOOP:AΩA,[0]FΩC[JΩ+/1∆I;]' ' IΩ1«I' ' ∏(M<2ıZXDEGREE F)/END' ' IΩ        
+X(Î/0ÙF ZNXREM C[I;])/I' ' ∏LOOP' 'END:AΩA,[0]C[I;]'                            

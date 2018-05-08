@@ -1,0 +1,11 @@
+ FMPZREM0 êFX ' CΩA MPZREM0 B;êIO;I;L;M;N;Q;R;SA;SC;T' '‰ COMPUTES MULTI        
+ PLE PRECISION REMAINDER USING VECTORS' '‰ OF DIGITS TO THE BASE 1E6.  T        
+ HE QUOTIENT IS SAVED' '‰ IN THE GLOBAL VARIABLE  q.' ' qΩ,êIOΩ0' ' CΩMP        
+ ZNRMLZ B' ' ∏(0=SAΩı1∆AΩMPZNRMLZ A)/0' ' AΩ|A' 'LOOP:∏(((ÊC)<ÊA)^0>SCΩı        
+ 1∆C)/NEG' ' ∏((ÊC)>ÊA)/DIVIDE' ' ∏(0>SC)/DIVIDE' ' ∏((ÊC)<ÊA)/0' ' ∏((Ê        
+ A)=IΩ(AÙC)Ï1)/DIVIDE' ' ∏(A[I]>C[I])/0' 'DIVIDE:NΩæ10µQΩ(1000000ù|(MΩ3æ        
+ ÊC)∆C)ˆ1000000ù(LΩ3æÊA)∆A' ' ∏(12>TΩN+6ı((ÊC)-M)-(ÊA)-L)/SMALL' ' QΩæQı        
+ 10*T-N+6ıRΩ˝2+æTˆ6' ' QΩ(SAıSCı,(3Ê1000000)òQ),RÊ0' ' ∏ADJUST' 'SMALL:Q        
+ ΩæSAıSCıQı10*T-N' ' QΩ(ıQ)ı((1+æ10µ|Q)Ê1000000)ò|Q' 'ADJUST:qΩq MPZSUM0        
+  Q' ' CΩC MPZSUM0(-SA)ıQ MPZPROD0 A' ' ∏LOOP' 'NEG:CΩC MPZSUM0 A' ' qΩq        
+X MPZSUM0-SA'                                                                   
