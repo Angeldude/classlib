@@ -10,3 +10,6 @@ This is still incomplete, if you want to start using the full CLASSLIB, use the 
 
 ### What's in it?
 I provide `.atf` files for each function and variable, 1 full `.atf` file with everything in it, an APLX workspace with everything in it, and an exported Dyalog extended workspace from the original Dyalog file.
+
+### To be converted?
+This file is all the variables that I need to re-introduce because the export feature on Dyalog was Erroring on matrix variable definitions.
