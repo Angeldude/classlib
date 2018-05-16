@@ -13,3 +13,6 @@ I provide `.atf` files for each function and variable, 1 full `.atf` file with e
 
 ### To be converted?
 This file contains all the variables that I need to re-introduce because the export feature on Dyalog was erroring on matrix variable definitions.
+
+### What's this html file?
+I found this on a site which was supposed to be hosting the classlib atf file, unfortunately I can't load the site again and I had the foresight to save the html page.
