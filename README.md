@@ -11,6 +11,10 @@ This is still incomplete, if you want to start using the full CLASSLIB, use the 
 ### What's in it?
 I provide `.atf` files for each function and variable, 1 full `.atf` file with everything in it, an APLX workspace with everything in it, and an exported Dyalog extended workspace from the original Dyalog file.
 
+I've also included pdf printouts of the function and variable definitions so they can be viewed and open up potential for porting to other systems.
+
+Speaking of porting, I started a `.ijs` file for JLang with some of those variable definitions. Who knows, maybe I'll port the entire library into J.
+
 ### To be converted?
 This file contains all the variables that I need to re-introduce because the export feature on Dyalog was erroring on matrix variable definitions.
 
